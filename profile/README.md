@@ -1,5 +1,5 @@
 # Utah PLT
 
-<https://cs.utah.edu/plt/>
+<https://www-old.cs.utah.edu/plt/>
 
-This is the official [University of Utah](https://utah.edu) PLT GitHub organization.
+This is the official [University of Utah](https://utah.edu) [PLT](http://cs.utah.edu/plt/) GitHub organization.
